@@ -1,0 +1,26 @@
+{
+  "name": "Lighter",
+  "symbol": "LTR",
+  "description": "Lighter is a meme-inspired community coin, designed to ignite fun and creativity on the Solana blockchain. Fast, light, and built to shine.",
+  "image": "https://raw.githubusercontent.com/gilangjohny-hue/lighter-token/main/logo.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Energy", "value": "Ignition" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/gilangjohny-hue/lighter-token/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FpxdbUhh8qjpQridrtCLTjYAuhqyFhF4SPgTPTF8T95b",
+        "share": 100
+      }
+    ]
+  }
+}
